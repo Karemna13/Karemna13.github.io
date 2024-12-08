@@ -1,0 +1,60 @@
+*{
+    font-family:"Nunito", sans-serif;
+}
+header{
+    background-color: #F1F0E8;
+}
+header a{
+    color: #2a3d17;
+}
+.nav-item a{
+    color: #525B44
+}
+#boton-perfil{
+    background-color:#5F6F52;
+}
+.nav-item a:hover{
+    color: #A59D84
+}
+#app{
+    color: #53663b;
+}
+.boton-cv{
+    background-color:#3f5c25;
+    color: #f8f8f8
+}
+.caja-habilidades{
+    background-color: #c9d6af65;
+    color: rgb(42, 49, 33);
+}
+.text-body-emphasis{
+    color: rgb(42, 49, 33);
+}
+.btn-proyecto{
+    background-color: #5F6F52;
+}
+.btn-proyecto a{
+    text-decoration: none;
+    color:#F1F0E8
+}
+.card .card-title{
+    color: #2a3d17;
+}
+#contacto{
+    background-color: #A5B68D;
+    color:#2a3d17
+}
+#btn-contacto{
+    color: #525B44;
+}
+#btn-contacto:hover{
+    background-color: #5F6F52;
+    color: #F1F0E8 ;
+}
+footer p{
+    color: #2a3d17;
+}
+footer p a{
+
+    color: #493728;
+}
